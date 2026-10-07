@@ -34,6 +34,7 @@ Aruma AidBridge is my attempt to turn that need into a reusable platform for pla
 ![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+
 The project is also where I'm exploring shared application architecture, domain modeling, deterministic testing and automated development workflows. **Firebase integration is planned as the project evolves.**
 
 > The repository is currently private while the project is still evolving.
