@@ -23,20 +23,18 @@ I like projects where architecture has to solve a real problem rather than exist
 
 Aruma started from something much more personal than a technical exercise.
 
-After becoming involved in initiatives collecting supplies and donations for Venezuela following the earthquake, it became clear to me that this kind of support would not be a one-time effort. I started thinking about how software could help organize and sustain these initiatives over the long term.
+After the June 2026 earthquakes in Venezuela, I became involved in initiatives collecting supplies and donations for people back home. It became clear to me that this kind of support would not be a one-time effort, and I started thinking about how software could help organize and sustain these initiatives over the long term.
 
 Aruma AidBridge is my attempt to turn that need into a reusable platform for planning and coordinating humanitarian operations — from missions and collection campaigns to product goals, logistics, shipment and impact.
 
-**Building with**
+**Current stack**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-The project is also where I'm exploring shared application architecture, domain modeling, deterministic testing and automated development workflows.
+The project is also where I'm exploring shared application architecture, domain modeling, deterministic testing and automated development workflows. **Firebase integration is planned as the project evolves.**
 
 > The repository is currently private while the project is still evolving.
 
